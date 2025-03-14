@@ -19,7 +19,7 @@ dependencies = [
 ]
 
 [project.scripts]
-mcp-server-shell = "mcp_server_shell.server:serve"
+mcp-server-shell = "mcp_server_shell:main"
 
 [build-system]
 requires = ["hatchling"]

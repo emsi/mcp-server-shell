@@ -1,6 +1,5 @@
 from .server import serve
 
-
 def main():
     """MCP Shell Server - Execute shell commands through MCP"""
     import argparse
